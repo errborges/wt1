@@ -14,19 +14,9 @@ Requer servidor Ubuntu 20.04 LTS com ao menos 4vcore e 8gb de ram.</br>
 Recomendamos Peramix, Contabo e Hetzner. </br>
 Não recomendamos Hostinger, Hostgator e Locaweb.</br>
 
-Sugerimos a VPS X2, a seguir:
-
-```
-https://control.peramix.com/?affid=14
-```
 Não encorajamos o uso para envio de mensagens em massas, temos um software disponível para PC.</br>
 O WaSender no valor de R$ 30,00, sem limitações de número de instalações. Em último caso se limite ao máximo de 50 envios através da função campanhas.</br>
 
-Adquira aqui o WaSender:
-
-```
-Em breve..
-```
 
 Utilize este instalador:
 
